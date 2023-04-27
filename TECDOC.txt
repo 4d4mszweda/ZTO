@@ -1,0 +1,208 @@
+logo
+Wyszukiwanie według dowolnego numeru
+
+Samochód osobowy
+Pojazd użytkowy
+Samochód dostawczy
+Motocykle
+Osie
+Silniki
+Uniwersalny
+TecRMI
+Wyszukiwanie według dowolnego numeru 128000-9300
+201082
+AD KÜHNER | 201082
+
+
+
+
+
+
+
+ Numer części OE
+TOYOTA
+Numer części OE	Informacja referencyjna
+28100-42050	
+28100-46090	
+28100-46100	
+28100-46120	
+28100-46140	
+28100-46190	
+Status: normalny
+1
+Marka	AD KÜHNER
+Numer artykułu	201082
+Grupa asortymentowa	Rozrusznik
+GTIN/EAN	
+­8056224031391
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+ LEXUS
+ TOYOTA
+Deklaracja ochrony danych Metryka 
+Licencje
+Powiązania z pojazdami dla 201082
+TOYOTA
+Szukaj
+ Pojazd		 Rok produkcji	 Nr typu pojazdu wg TecDoc	 kW	 KM	 cc	 Design
+SUPRA (_A8_) 3.0 i Bi-Turbo (JZA80_)
+ Więcej informacji
+05.1993-07.2002	3856	243	330	2997	coupe
+Kryteria artykułu
+Napięcie	12 V
+Moc rozruchowa [kW]	1,4 kW
+Il. zębów	9
+Kierunek obrotów	zgodnie z ruchem wskazówek zegara
+Liczba otworów do mocowania	2
+Ilość otworów gwintowanych	2
+Ø flanszy	74 [mm]
+ Ogólny
+Numer artykułu	201082
+GTIN/EAN	
+­8056224031391
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	TOYOTA SUPRA (_A8_) 3.0 i Bi-Turbo (JZA80_)
+Rok produkcji	05.1993 - 07.2002
+Moc	243 kW / 330 KM
+Pojemność skokowa	2997 cc / 3 l
+Cylindry	6
+Zawory	4
+Rodzaj nadwozia	coupe
+Rodzaj napędu	Napęd tylnych kół
+Typ silnika	Silnik benzynowy
+Kody silników	2JZ-GTE
+Paliwo	benzyna
+Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Numery
+Nr typu pojazdu wg TecDoc:	3856
+Numer KBA	7104262
+SRS Optymalizacja danych
+SUPRA (_A8_) 3.0 (JZA80_)
+ Więcej informacji
+05.1993-10.1999	49448	165	224	2997	coupe
+Kryteria artykułu
+Napięcie	12 V
+Moc rozruchowa [kW]	1,4 kW
+Il. zębów	9
+Kierunek obrotów	zgodnie z ruchem wskazówek zegara
+Liczba otworów do mocowania	2
+Ilość otworów gwintowanych	2
+Ø flanszy	74 [mm]
+ Ogólny
+Numer artykułu	201082
+GTIN/EAN	
+­8056224031391
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	TOYOTA SUPRA (_A8_) 3.0 (JZA80_)
+Rok produkcji	05.1993 - 10.1999
+Moc	165 kW / 224 KM
+Pojemność skokowa	2997 cc / 3 l
+Cylindry	6
+Zawory	4
+Rodzaj nadwozia	coupe
+Rodzaj napędu	Napęd tylnych kół
+Typ silnika	Silnik benzynowy
+Kody silników	2JZ-GE
+Paliwo	benzyna
+Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Numery
+Nr typu pojazdu wg TecDoc:	49448
+SRS Optymalizacja danych
+SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
+Rok prod.: od 08.1990
+Kod silnika: 7M-GTE
+ Więcej informacji
+08.1988-05.1993	3587	175	238	2954	coupe
+Kryteria powiązań
+Rok prod.	od 08.1990
+Kod silnika	7M-GTE
+Kryteria artykułu
+Napięcie	12 V
+Moc rozruchowa [kW]	1,4 kW
+Il. zębów	9
+Kierunek obrotów	zgodnie z ruchem wskazówek zegara
+Liczba otworów do mocowania	2
+Ilość otworów gwintowanych	2
+Ø flanszy	74 [mm]
+ Ogólny
+Numer artykułu	201082
+GTIN/EAN	
+­8056224031391
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	TOYOTA SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
+Rok produkcji	08.1988 - 05.1993
+Moc	175 kW / 238 KM
+Pojemność skokowa	2954 cc / 3 l
+Cylindry	6
+Zawory	4
+Rodzaj nadwozia	coupe
+Rodzaj napędu	Napęd tylnych kół
+Typ silnika	Silnik benzynowy
+Kody silników	7M-GTE
+Paliwo	benzyna
+Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Numery
+Nr typu pojazdu wg TecDoc:	3587
+Numer KBA	7104497
+SRS Optymalizacja danych
+SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
+Rok prod.: od 08.1990
+Kod silnika: 7M-GTE
+ Więcej informacji
+09.1987-04.1993	3586	173	235	2954	coupe
+Kryteria powiązań
+Rok prod.	od 08.1990
+Kod silnika	7M-GTE
+Kryteria artykułu
+Napięcie	12 V
+Moc rozruchowa [kW]	1,4 kW
+Il. zębów	9
+Kierunek obrotów	zgodnie z ruchem wskazówek zegara
+Liczba otworów do mocowania	2
+Ilość otworów gwintowanych	2
+Ø flanszy	74 [mm]
+ Ogólny
+Numer artykułu	201082
+GTIN/EAN	
+­8056224031391
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	TOYOTA SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
+Rok produkcji	09.1987 - 04.1993
+Moc	173 kW / 235 KM
+Pojemność skokowa	2954 cc / 3 l
+Cylindry	6
+Zawory	4
+Rodzaj nadwozia	coupe
+Rodzaj napędu	Napęd tylnych kół
+Typ silnika	Silnik benzynowy
+Kody silników	7M-GTE
+Paliwo	benzyna
+Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Numery
+Nr typu pojazdu wg TecDoc:	3586
+Numer KBA	7104488
+SRS Optymalizacja danych
