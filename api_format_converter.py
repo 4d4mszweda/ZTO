@@ -5,8 +5,17 @@ def main():
             temp = []
             final = []
             for count, line in enumerate(read):
-                if(" Więcej informacji" in line):
-                    temp.append(read[count + 1])
+                if("Typ pojazdu" in line):
+                    temp.append(line[12:])
+                if("Rok produkcji" in line and "pojazdu" not in line):
+                    temp.append(line[14:])
+                if("Pojemność skokowa" in line):
+                    temp.append(line[18:])
+                if("Kody silników" in line):
+                    temp.append(line[14:])
+                    final.append(temp)
+                    temp = []
+            print(final)
                     
                     
 
