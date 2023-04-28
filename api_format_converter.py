@@ -18,6 +18,15 @@ def formatApi(list):
         element[2] = re.sub("\\n", "", element[2])
         element[3] = re.sub("\\n", "", element[3])
         element[4] = re.sub("\\n", "", element[4])
+        element[1] = re.sub(element[0] + " ", "", element[1])
+        element[4] = "[" + element[4] + "]"
+        element[2] = re.sub(" ", "", element[2])
+        temp = ''
+        for sign in element[3]:
+            if(sign == ' '):
+                break
+            temp += sign
+        element[3] = round(int(temp) / 1000, 1)
     return list
                     
 def getApiData(txt):
