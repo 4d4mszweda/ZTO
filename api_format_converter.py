@@ -2,12 +2,16 @@ import re
 
 def main():
     with open("TECDOC.txt", "r", encoding="utf8") as tecdoc:
+        read = tecdoc.readlines()
+        data = getApiData(read)
+        data = formatApi(data)
         with open("result.txt", "w") as result:
-            read = tecdoc.readlines()
-            data = getApiData(read)
-            # printList(data)
-            data = formatApi(data)
-            printList(data)
+            for element in data:
+                for str in element:
+                    result.write(str)
+                    if(str not in element[-1]):
+                        result.write(",")
+                result.write("\n")
             
             
 def formatApi(list):
@@ -26,7 +30,7 @@ def formatApi(list):
             if(sign == ' '):
                 break
             temp += sign
-        element[3] = round(int(temp) / 1000, 1)
+        element[3] = str(round(int(temp) / 1000, 1))
     return list
                     
 def getApiData(txt):
