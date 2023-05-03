@@ -34,7 +34,7 @@ def formatApi(list):
     result = []
     for element in list:
         if(',' in element[4]):
-            engine_codes = element[4].split()
+            engine_codes = element[4].split(",")
             for engine_code in engine_codes:
                 temp = []
                 temp.append(element[0])
