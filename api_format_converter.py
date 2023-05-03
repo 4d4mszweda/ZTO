@@ -22,8 +22,8 @@ def formatApi(list):
         element[2] = re.sub("\\n", "", element[2])
         element[3] = re.sub("\\n", "", element[3])
         element[4] = re.sub("\\n", "", element[4])
+        element[4] = re.sub(" ", "", element[4])
         element[1] = re.sub(element[0] + " ", "", element[1])
-        element[4] = "[" + element[4] + "]"
         element[2] = re.sub(" ", "", element[2])
         temp = ''
         for sign in element[3]:
@@ -31,7 +31,23 @@ def formatApi(list):
                 break
             temp += sign
         element[3] = str(round(int(temp) / 1000, 1))
-    return list
+    result = []
+    for element in list:
+        if(',' in element[4]):
+            engine_codes = element[4].split()
+            for engine_code in engine_codes:
+                temp = []
+                temp.append(element[0])
+                temp.append(element[1])
+                temp.append(element[2])
+                temp.append(element[3])
+                temp.append(engine_code)
+                temp[4] = "[" + temp[4] + "]"
+                result.append(temp)
+        else:
+            element[4] = "[" + element[4] + "]"
+            result.append(element)
+    return result
                     
 def getApiData(txt):
     final = []

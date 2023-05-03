@@ -156,7 +156,7 @@ Zawory	4
 Rodzaj nadwozia	coupe
 Rodzaj napędu	Napęd tylnych kół
 Typ silnika	Silnik benzynowy
-Kody silników	7M-GTE
+Kody silników	7M-GTE, 7D-GTE
 Paliwo	benzyna
 Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
 Numery
