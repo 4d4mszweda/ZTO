@@ -9,200 +9,912 @@ Osie
 Silniki
 Uniwersalny
 TecRMI
-Wyszukiwanie według dowolnego numeru 128000-9300
-201082
-AD KÜHNER | 201082
-
-
-
-
-
+Wyszukiwanie według dowolnego numeru F000BL0841
+CAL10546AS
+CASCO | CAL10546AS
 
 
  Numer części OE
-TOYOTA
+NISSAN
 Numer części OE	Informacja referencyjna
-28100-42050	
-28100-46090	
-28100-46100	
-28100-46120	
-28100-46140	
-28100-46190	
+231004BE0A	
+231004BE0B	
+231004BE0BRP	
+231008633R	
 Status: normalny
 1
-Marka	AD KÜHNER
-Numer artykułu	201082
-Grupa asortymentowa	Rozrusznik
+Marka	CASCO
+Numer artykułu	CAL10546AS
+Grupa asortymentowa	Alternator
 GTIN/EAN	
-­8056224031391
+­8058642664458
 Jednostka pakowania	1
 Ilość w jednostce pakowania	1
- LEXUS
- TOYOTA
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+zastępuje	­CAL10013RS / ­CAL10560RS
+ NISSAN
+ OPEL
+ RENAULT
 Deklaracja ochrony danych Metryka 
 Licencje
-Powiązania z pojazdami dla 201082
-TOYOTA
+Powiązania z pojazdami dla CAL10546AS
+RENAULT
 Szukaj
  Pojazd		 Rok produkcji	 Nr typu pojazdu wg TecDoc	 kW	 KM	 cc	 Design
-SUPRA (_A8_) 3.0 i Bi-Turbo (JZA80_)
+ESPACE V (JR_) 1.6 dCi 130
  Więcej informacji
-05.1993-07.2002	3856	243	330	2997	coupe
+06.2015-	111762	96	130	1598	nadwozie wielkoprzestrzenne (MPV)
 Kryteria artykułu
 Napięcie	12 V
-Moc rozruchowa [kW]	1,4 kW
-Il. zębów	9
-Kierunek obrotów	zgodnie z ruchem wskazówek zegara
-Liczba otworów do mocowania	2
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
 Ilość otworów gwintowanych	2
-Ø flanszy	74 [mm]
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
  Ogólny
-Numer artykułu	201082
+Numer artykułu	CAL10546AS
 GTIN/EAN	
-­8056224031391
+­8058642664458
 Jednostka pakowania	1
 Ilość w jednostce pakowania	1
 Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
 Zdjęcie pojazdu
 
 Szczegóły dot. pojazdu
 Dane techniczne
-Typ pojazdu	TOYOTA SUPRA (_A8_) 3.0 i Bi-Turbo (JZA80_)
-Rok produkcji	05.1993 - 07.2002
-Moc	243 kW / 330 KM
-Pojemność skokowa	2997 cc / 3 l
-Cylindry	6
+Typ pojazdu	RENAULT ESPACE V (JR_) 1.6 dCi 130
+Rok produkcji	06.2015 -
+Moc	96 kW / 130 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
 Zawory	4
-Rodzaj nadwozia	coupe
-Rodzaj napędu	Napęd tylnych kół
-Typ silnika	Silnik benzynowy
-Kody silników	2JZ-GTE
-Paliwo	benzyna
-Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Rodzaj nadwozia	nadwozie wielkoprzestrzenne (MPV)
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 409
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
 Numery
-Nr typu pojazdu wg TecDoc:	3856
-Numer KBA	7104262
+Nr typu pojazdu wg TecDoc:	111762
+Numer KBA	3333BDP
 SRS Optymalizacja danych
-SUPRA (_A8_) 3.0 (JZA80_)
+ESPACE V (JR_) 1.6 dCi 160
  Więcej informacji
-05.1993-10.1999	49448	165	224	2997	coupe
+06.2015-	111763	118	160	1598	nadwozie wielkoprzestrzenne (MPV)
 Kryteria artykułu
 Napięcie	12 V
-Moc rozruchowa [kW]	1,4 kW
-Il. zębów	9
-Kierunek obrotów	zgodnie z ruchem wskazówek zegara
-Liczba otworów do mocowania	2
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
 Ilość otworów gwintowanych	2
-Ø flanszy	74 [mm]
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
  Ogólny
-Numer artykułu	201082
+Numer artykułu	CAL10546AS
 GTIN/EAN	
-­8056224031391
+­8058642664458
 Jednostka pakowania	1
 Ilość w jednostce pakowania	1
 Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
 Zdjęcie pojazdu
 
 Szczegóły dot. pojazdu
 Dane techniczne
-Typ pojazdu	TOYOTA SUPRA (_A8_) 3.0 (JZA80_)
-Rok produkcji	05.1993 - 10.1999
-Moc	165 kW / 224 KM
-Pojemność skokowa	2997 cc / 3 l
-Cylindry	6
+Typ pojazdu	RENAULT ESPACE V (JR_) 1.6 dCi 160
+Rok produkcji	06.2015 -
+Moc	118 kW / 160 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
 Zawory	4
-Rodzaj nadwozia	coupe
-Rodzaj napędu	Napęd tylnych kół
-Typ silnika	Silnik benzynowy
-Kody silników	2JZ-GE
-Paliwo	benzyna
-Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Rodzaj nadwozia	nadwozie wielkoprzestrzenne (MPV)
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 452
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
 Numery
-Nr typu pojazdu wg TecDoc:	49448
+Nr typu pojazdu wg TecDoc:	111763
+Numer KBA	3333BDQ
 SRS Optymalizacja danych
-SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
-Rok prod.: od 08.1990
-Kod silnika: 7M-GTE
+KADJAR (HA_, HL_) 1.6 dCi 130
  Więcej informacji
-08.1988-05.1993	3587	175	238	2954	coupe
-Kryteria powiązań
-Rok prod.	od 08.1990
-Kod silnika	7M-GTE
+06.2015-	111758	96	130	1598	SUV
 Kryteria artykułu
 Napięcie	12 V
-Moc rozruchowa [kW]	1,4 kW
-Il. zębów	9
-Kierunek obrotów	zgodnie z ruchem wskazówek zegara
-Liczba otworów do mocowania	2
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
 Ilość otworów gwintowanych	2
-Ø flanszy	74 [mm]
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
  Ogólny
-Numer artykułu	201082
+Numer artykułu	CAL10546AS
 GTIN/EAN	
-­8056224031391
+­8058642664458
 Jednostka pakowania	1
 Ilość w jednostce pakowania	1
 Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
 Zdjęcie pojazdu
 
 Szczegóły dot. pojazdu
 Dane techniczne
-Typ pojazdu	TOYOTA SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
-Rok produkcji	08.1988 - 05.1993
-Moc	175 kW / 238 KM
-Pojemność skokowa	2954 cc / 3 l
-Cylindry	6
+Typ pojazdu	RENAULT KADJAR (HA_, HL_) 1.6 dCi 130
+Rok produkcji	06.2015 -
+Moc	96 kW / 130 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
 Zawory	4
-Rodzaj nadwozia	coupe
-Rodzaj napędu	Napęd tylnych kół
-Typ silnika	Silnik benzynowy
-Kody silników	7M-GTE, 7D-GTE
-Paliwo	benzyna
-Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Rodzaj nadwozia	SUV
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 414
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
 Numery
-Nr typu pojazdu wg TecDoc:	3587
-Numer KBA	7104497
+Nr typu pojazdu wg TecDoc:	111758
+Numer KBA	3333BDY
 SRS Optymalizacja danych
-SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
-Rok prod.: od 08.1990
-Kod silnika: 7M-GTE
+KADJAR (HA_, HL_) 1.6 dCi 130 4x4
  Więcej informacji
-09.1987-04.1993	3586	173	235	2954	coupe
-Kryteria powiązań
-Rok prod.	od 08.1990
-Kod silnika	7M-GTE
+06.2015-	111759	96	130	1598	SUV
 Kryteria artykułu
 Napięcie	12 V
-Moc rozruchowa [kW]	1,4 kW
-Il. zębów	9
-Kierunek obrotów	zgodnie z ruchem wskazówek zegara
-Liczba otworów do mocowania	2
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
 Ilość otworów gwintowanych	2
-Ø flanszy	74 [mm]
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
  Ogólny
-Numer artykułu	201082
+Numer artykułu	CAL10546AS
 GTIN/EAN	
-­8056224031391
+­8058642664458
 Jednostka pakowania	1
 Ilość w jednostce pakowania	1
 Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
 Zdjęcie pojazdu
 
 Szczegóły dot. pojazdu
 Dane techniczne
-Typ pojazdu	TOYOTA SUPRA (_A7_) 3.0 Turbo (MA70_, MA70)
-Rok produkcji	09.1987 - 04.1993
-Moc	173 kW / 235 KM
-Pojemność skokowa	2954 cc / 3 l
-Cylindry	6
+Typ pojazdu	RENAULT KADJAR (HA_, HL_) 1.6 dCi 130 4x4
+Rok produkcji	06.2015 -
+Moc	96 kW / 130 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
 Zawory	4
-Rodzaj nadwozia	coupe
-Rodzaj napędu	Napęd tylnych kół
-Typ silnika	Silnik benzynowy
-Kody silników	7M-GTE
-Paliwo	benzyna
-Układ przygotowywania mieszanki	wtrysk do kolektora dolotowego / gaźnik
+Rodzaj nadwozia	SUV
+Rodzaj napędu	Napęd na wszystkie koła
+Typ silnika	olej napędowy
+Kody silników	R9M 414
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
 Numery
-Nr typu pojazdu wg TecDoc:	3586
-Numer KBA	7104488
+Nr typu pojazdu wg TecDoc:	111759
+Numer KBA	3333BDZ
+SRS Optymalizacja danych
+TALISMAN (LP_) 1.6 dCi 130
+ Więcej informacji
+11.2015-	117839	96	130	1598	sedan
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TALISMAN (LP_) 1.6 dCi 130
+Rok produkcji	11.2015 -
+Moc	96 kW / 130 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	sedan
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 409
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	117839
+Numer KBA	3333BEQ
+SRS Optymalizacja danych
+TALISMAN (LP_) 1.6 dCi 160
+ Więcej informacji
+06.2015-	117840	118	160	1598	sedan
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TALISMAN (LP_) 1.6 dCi 160
+Rok produkcji	06.2015 -
+Moc	118 kW / 160 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	sedan
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 452, R9M 453
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	117840
+Numer KBA	3333BER
+SRS Optymalizacja danych
+TALISMAN Grandtour (KP_) 1.6 dCi 130
+ Więcej informacji
+03.2016-	118562	96	130	1598	Kombi
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TALISMAN Grandtour (KP_) 1.6 dCi 130
+Rok produkcji	03.2016 -
+Moc	96 kW / 130 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Kombi
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 409
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	118562
+Numer KBA	3333BFD
+SRS Optymalizacja danych
+TALISMAN Grandtour (KP_) 1.6 dCi 160
+ Więcej informacji
+03.2016-	118563	118	160	1598	Kombi
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TALISMAN Grandtour (KP_) 1.6 dCi 160
+Rok produkcji	03.2016 -
+Moc	118 kW / 160 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Kombi
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 452, R9M 453
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	118563
+Numer KBA	3333BFE
+SRS Optymalizacja danych
+TRAFIC III Autobus (JG_) 1.6 dCi 115 (JGMD)
+ Więcej informacji
+05.2014-	107531	85	116	1598	Autobus
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Autobus (JG_) 1.6 dCi 115 (JGMD)
+Rok produkcji	05.2014 -
+Moc	85 kW / 116 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Autobus
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 408
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	107531
+Numer KBA	3333BCQ
+SRS Optymalizacja danych
+TRAFIC III Autobus (JG_) 1.6 dCi 120 (JGMB)
+ Więcej informacji
+05.2014-	107532	88	120	1598	Autobus
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Autobus (JG_) 1.6 dCi 120 (JGMB)
+Rok produkcji	05.2014 -
+Moc	88 kW / 120 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Autobus
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 450
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	107532
+Numer KBA	3333BCP, 3333BJO
+SRS Optymalizacja danych
+TRAFIC III Autobus (JG_) 1.6 dCi 125 (JGMH)
+ Więcej informacji
+07.2015-	115519	92	125	1598	Autobus
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Autobus (JG_) 1.6 dCi 125 (JGMH)
+Rok produkcji	07.2015 -
+Moc	92 kW / 125 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Autobus
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 452
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	115519
+Numer KBA	3333BEN
+SRS Optymalizacja danych
+TRAFIC III Autobus (JG_) 1.6 dCi 140 (JGMA)
+ Więcej informacji
+05.2014-	107533	103	140	1598	Autobus
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Autobus (JG_) 1.6 dCi 140 (JGMA)
+Rok produkcji	05.2014 -
+Moc	103 kW / 140 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Autobus
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 450
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	107533
+Numer KBA	3333BCO
+SRS Optymalizacja danych
+TRAFIC III Autobus (JG_) 1.6 dCi 145 (JGMG)
+ Więcej informacji
+07.2015-	115520	107	145	1598	Autobus
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Autobus (JG_) 1.6 dCi 145 (JGMG)
+Rok produkcji	07.2015 -
+Moc	107 kW / 145 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Autobus
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 452
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	115520
+Numer KBA	3333BEM
+SRS Optymalizacja danych
+TRAFIC III Autobus (JG_) 1.6 dCi 90 (JGME)
+ Więcej informacji
+05.2014-	107530	66	90	1598	Autobus
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Autobus (JG_) 1.6 dCi 90 (JGME)
+Rok produkcji	05.2014 -
+Moc	66 kW / 90 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Autobus
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 408
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	107530
+Numer KBA	3333BCR
+SRS Optymalizacja danych
+TRAFIC III Autobus (JG_) 1.6 dCi 95 (JGMR, JGMJ)
+ Więcej informacji
+07.2015-	115506	70	95	1598	Autobus
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Autobus (JG_) 1.6 dCi 95 (JGMR, JGMJ)
+Rok produkcji	07.2015 -
+Moc	70 kW / 95 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Autobus
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 413, R9M 415
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	115506
+Numer KBA	3333BEO
+SRS Optymalizacja danych
+TRAFIC III Furgon (FG_) 1.6 dCi 115 (FGMD)
+ Więcej informacji
+05.2014-	105905	85	116	1598	Furgon
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Furgon (FG_) 1.6 dCi 115 (FGMD)
+Rok produkcji	05.2014 -
+Moc	85 kW / 116 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Furgon
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 408
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	105905
+Numer KBA	3333BCM
+SRS Optymalizacja danych
+TRAFIC III Furgon (FG_) 1.6 dCi 120 (FGMB)
+ Więcej informacji
+05.2014-	105906	88	120	1598	Furgon
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Furgon (FG_) 1.6 dCi 120 (FGMB)
+Rok produkcji	05.2014 -
+Moc	88 kW / 120 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Furgon
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 450
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	105906
+Numer KBA	3333BCL, 3333BFO
+SRS Optymalizacja danych
+TRAFIC III Furgon (FG_) 1.6 dCi 140 (FGMA)
+ Więcej informacji
+05.2014-	105907	103	140	1598	Furgon
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Furgon (FG_) 1.6 dCi 140 (FGMA)
+Rok produkcji	05.2014 -
+Moc	103 kW / 140 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Furgon
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 450
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	105907
+Numer KBA	3333BCK
+SRS Optymalizacja danych
+TRAFIC III Furgon (FG_) 1.6 dCi 90 (FGME)
+ Więcej informacji
+05.2014-	105904	66	90	1598	Furgon
+Kryteria artykułu
+Napięcie	12 V
+Prąd ładowania alternatora	150 A
+ID wykonania wtyczki	CPA0425
+Ilość żeber	7
+Ø koła pasowego	49 [mm]
+Koła pasowe	z kołem pasowym wolnobieżnym
+Ilość otworów gwintowanych	2
+Wersja	AS
+Nowa część	
+Liczba otworów do mocowania	4
+dla producenta koła zamachowego	NISSAN, OPEL, RENAULT
+ Ogólny
+Numer artykułu	CAL10546AS
+GTIN/EAN	
+­8058642664458
+Jednostka pakowania	1
+Ilość w jednostce pakowania	1
+Status	normalny
+Numer rejestracyjny	
+Akcesoria
+Obowiązek rejestracji
+zgodne z SB
+Zdjęcie pojazdu
+
+Szczegóły dot. pojazdu
+Dane techniczne
+Typ pojazdu	RENAULT TRAFIC III Furgon (FG_) 1.6 dCi 90 (FGME)
+Rok produkcji	05.2014 -
+Moc	66 kW / 90 KM
+Pojemność skokowa	1598 cc / 1.6 l
+Cylindry	4
+Zawory	4
+Rodzaj nadwozia	Furgon
+Rodzaj napędu	Napęd przednich kół
+Typ silnika	olej napędowy
+Kody silników	R9M 408
+Paliwo	olej napędowy
+Układ przygotowywania mieszanki	Wtrysk bezpośredni
+Numery
+Nr typu pojazdu wg TecDoc:	105904
+Numer KBA	3333BCN
 SRS Optymalizacja danych
