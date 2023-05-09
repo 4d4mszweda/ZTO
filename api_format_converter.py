@@ -53,7 +53,7 @@ def getApiData(txt):
     final = []
     temp = []
     for count, line in enumerate(txt):
-        if(" Numer części OE" in line):
+        if("Powiązania z pojazdami dla " in line):
             name = txt[count + 1]
             temp.append(name)
         if("Typ pojazdu" in line):
