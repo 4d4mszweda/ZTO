@@ -15,9 +15,11 @@ def main():
             
             
 def formatApi(list):
+    pass_car = {"BMW", "MERCEDES BENZ", "MINI"}
     for element in list:
-        element[1] = re.sub(" \(.*?\)", "", element[1])
         element[0] = re.sub("\\n", "", element[0])
+        if(element[0] not in pass_car):
+            element[1] = re.sub(" \(.*?\)", "", element[1])
         element[1] = re.sub("\\n", "", element[1])
         element[2] = re.sub("\\n", "", element[2])
         element[3] = re.sub("\\n", "", element[3])
