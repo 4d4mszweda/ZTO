@@ -1,7 +1,7 @@
 import re
 
 def main():
-    with open("TECDOC3.txt", "r", encoding="utf8") as tecdoc:
+    with open("TECDOC.txt", "r", encoding="utf8") as tecdoc:
         read = tecdoc.readlines()
         data = getApiData(read)
         data = formatApi(data)
