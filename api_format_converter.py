@@ -1,7 +1,7 @@
 import re
 
 def main():
-    with open("TECDOC.txt", "r", encoding="utf8") as tecdoc:
+    with open("TECDOC3.txt", "r", encoding="utf8") as tecdoc:
         read = tecdoc.readlines()
         data = getApiData(read)
         data = formatApi(data)
@@ -15,17 +15,13 @@ def main():
             
             
 def formatApi(list):
-    pass_car = {"BMW", "MERCEDES-BENZ", "MINI"}
     for element in list:
         element[0] = re.sub("\\n", "", element[0])
-        if(element[0] not in pass_car):
-            element[1] = re.sub(" \(.*?\)", "", element[1])
-        element[1] = re.sub("\\n", "", element[1])
+        element[1] = carModelFormat(element[1], element[0])
         element[2] = re.sub("\\n", "", element[2])
         element[3] = re.sub("\\n", "", element[3])
         element[4] = re.sub("\\n", "", element[4])
         element[4] = re.sub(" ", "", element[4])
-        element[1] = re.sub(element[0] + " ", "", element[1])
         element[2] = re.sub(" ", "", element[2])
         temp = ''
         for sign in element[3]:
@@ -50,7 +46,24 @@ def formatApi(list):
             element[4] = "[" + element[4] + "]"
             result.append(element)
     return result
-                    
+
+def carModelFormat(model, car):
+    delete_str = {" nadwozie wielkoprzestrzenne "," Cabriolet "," SUV "," liftback "," ALL MODE "
+                  , " coupe ", " kabriolet ", " Autobus "," Furgon ", " Platforma / podwozie "}
+    pass_car = {"BMW", "MERCEDES-BENZ", "MINI", "MERCEDES BENZ"}
+    if(car not in pass_car):
+        model = re.sub(" \(.*?\)", "", model)
+    model = re.sub("\\n", "", model)
+    model = re.sub(car + " ", "", model)
+    for x in ["I", "II", "III", "IV","V","VI","VII","VIII","IX","X"]:
+        model = re.sub(" "+x+" ", " ", model)
+        # model = re.sub("I$", "", model)
+    for x in delete_str:
+        model = re.sub(x, " ", model)
+    model = re.sub(" \(.*?\.\.\.","", model)
+    model = model.title()
+    return model
+
 def getApiData(txt):
     final = []
     temp = []
