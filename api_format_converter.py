@@ -22,7 +22,7 @@ def main():
             for str in element:
                 Output.insert(END, str)
                 if(str not in element[-1]):
-                        Output.insert(END, ",")
+                        Output.insert(END, "|")
             Output.insert(END, "\n")
 
     l = Label(text = "INSERT DATA")
@@ -35,7 +35,7 @@ def main():
               bg = "light cyan")
  
     Display = Button(root, height = 2,
-                 width = 20,
+                 width = 113,
                  text ="Convert",
                  command = lambda:Take_input())
     
@@ -98,28 +98,49 @@ def carModelFormat(model, car):
 
 def getApiData(txt):
     final = []
-    temp = []
+    temp = ["0" for s in range(5)]
+
+    name = ""
+    for count, line in enumerate(txt):
+        if(" Pojazd		 Rok produkcji	 Nr typu pojazdu wg TecDoc	 kW" in line):
+            tp_name = txt[count + 1]
+        if("Typ pojazdu" in line):
+            line = line[12:]
+            line = line.split()
+            tp_name = tp_name.split()
+            for el in tp_name:
+                line.remove(el)
+            for el in line:
+                name += el
+            break
+
     for count, line in enumerate(txt):
         # print(line)
-        if("Powiązania z pojazdami dla " in line):
-            name = txt[count + 1]
-            if(name == "Szukaj\n"):
-                for c2, l2 in enumerate(txt):
-                    if(" Numer części OE" in l2):
-                        name = txt[c2 + 1]
-            temp.append(name)
-        if("Typ pojazdu" in line):
-            temp.append(line[12:])
+        if("Typ pojazdu" in line and "Dane techniczne" in txt[count - 1]):
+            if(temp[0] != "0"):
+                final.append(temp)
+            temp = ["0" for s in range(5)]
+            temp[0] = name
+            temp[1] = line[12:]
         if("Rok produkcji" in line and "pojazdu" not in line):
-            temp.append(line[14:])
+            temp[2] = line[14:]
         if("Pojemność skokowa" in line):
-            temp.append(line[18:])
+            temp[3] = line[18:]
         if("Kody silników" in line):
-            temp.append(line[14:])
-            final.append(temp)
-            temp = []
-            temp.append(name)
+            temp[4] = line[14:]
     return final
+
+def difference(string2, string1):
+    string1 = string1.split()
+    string2 = string2.split()
+
+    A = set(string1)
+    B = set(string2)
+
+    str_diff = A.symmetric_difference(B)
+    print(str_diff)
+    return list(str_diff)[0]
+
 
 def printList(list):
     for element in list:
