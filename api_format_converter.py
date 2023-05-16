@@ -1,18 +1,45 @@
 from  re import sub
+from tkinter import *
 
+def start(data):
+    data = data.split("\n")
+    # print(data)
+    data = getApiData(data)
+    # print(data)
+    data = formatApi(data)
+    # print(data)
+    return data
+    
 def main():
-    with open("TECDOC3.txt", "r", encoding="utf8") as tecdoc:
-        read = tecdoc.readlines()
-        data = getApiData(read)
-        data = formatApi(data)
-        with open("result.txt", "w") as result:
-            for element in data:
-                for str in element:
-                    result.write(str)
-                    if(str not in element[-1]):
-                        result.write(",")
-                result.write("\n")
-            
+    root = Tk()
+    root.geometry("1100x900")
+    root.title("TecDoc Converter v0.05")
+
+    def Take_input():
+        INPUT = inputtxt.get("1.0", "end-1c")
+        data = start(INPUT)
+        Output.insert(END, data)
+
+    l = Label(text = "INSERT DATA")
+    inputtxt = Text(root, height = 15,
+                width = 100,
+                bg = "light yellow")
+ 
+    Output = Text(root, height = 35,
+              width = 100,
+              bg = "light cyan")
+ 
+    Display = Button(root, height = 2,
+                 width = 20,
+                 text ="Convert",
+                 command = lambda:Take_input())
+    
+    l.pack()
+    inputtxt.pack()
+    Display.pack()
+    Output.pack()
+    mainloop()
+
             
 def formatApi(list):
     for element in list:
@@ -68,6 +95,7 @@ def getApiData(txt):
     final = []
     temp = []
     for count, line in enumerate(txt):
+        # print(line)
         if("Powiązania z pojazdami dla " in line):
             name = txt[count + 1]
             if(name == "Szukaj\n"):
@@ -91,6 +119,15 @@ def getApiData(txt):
 def printList(list):
     for element in list:
         print(element)
+
+def insertText():
+    text = []
+    while True:
+        try:
+            text.append( input() )
+        except:
+            break
+    return text
 
 if __name__ == "__main__":
     try:
