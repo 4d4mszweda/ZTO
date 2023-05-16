@@ -18,7 +18,12 @@ def main():
     def Take_input():
         INPUT = inputtxt.get("1.0", "end-1c")
         data = start(INPUT)
-        Output.insert(END, data)
+        for element in data:
+            for str in element:
+                Output.insert(END, str)
+                if(str not in element[-1]):
+                        Output.insert(END, ",")
+            Output.insert(END, "\n")
 
     l = Label(text = "INSERT DATA")
     inputtxt = Text(root, height = 15,
