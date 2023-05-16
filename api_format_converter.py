@@ -1,7 +1,7 @@
-import re
+from  re import sub
 
 def main():
-    with open("TECDOC.txt", "r", encoding="utf8") as tecdoc:
+    with open("TECDOC3.txt", "r", encoding="utf8") as tecdoc:
         read = tecdoc.readlines()
         data = getApiData(read)
         data = formatApi(data)
@@ -16,13 +16,13 @@ def main():
             
 def formatApi(list):
     for element in list:
-        element[0] = re.sub("\\n", "", element[0])
+        element[0] = sub("\\n", "", element[0])
         element[1] = carModelFormat(element[1], element[0])
-        element[2] = re.sub("\\n", "", element[2])
-        element[3] = re.sub("\\n", "", element[3])
-        element[4] = re.sub("\\n", "", element[4])
-        element[4] = re.sub(" ", "", element[4])
-        element[2] = re.sub(" ", "", element[2])
+        element[2] = sub("\\n", "", element[2])
+        element[3] = sub("\\n", "", element[3])
+        element[4] = sub("\\n", "", element[4])
+        element[4] = sub(" ", "", element[4])
+        element[2] = sub(" ", "", element[2])
         temp = ''
         for sign in element[3]:
             if(sign == ' '):
@@ -52,15 +52,15 @@ def carModelFormat(model, car):
                   , " coupe ", " kabriolet ", " Autobus "," Furgon ", " Platforma / podwozie "}
     pass_car = {"BMW", "MERCEDES-BENZ", "MINI", "MERCEDES BENZ"}
     if(car not in pass_car):
-        model = re.sub(" \(.*?\)", "", model)
-    model = re.sub("\\n", "", model)
-    model = re.sub(car + " ", "", model)
+        model = sub(" \(.*?\)", "", model)
+    model = sub("\\n", "", model)
+    model = sub(car + " ", "", model)
     for x in ["I", "II", "III", "IV","V","VI","VII","VIII","IX","X"]:
-        model = re.sub(" "+x+" ", " ", model)
-        # model = re.sub("I$", "", model)
+        model = sub(" "+x+" ", " ", model)
+        # model = sub("I$", "", model)
     for x in delete_str:
-        model = re.sub(x, " ", model)
-    model = re.sub(" \(.*?\.\.\.","", model)
+        model = sub(x, " ", model)
+    model = sub(" \(.*?\.\.\.","", model)
     model = model.title()
     return model
 
@@ -93,4 +93,7 @@ def printList(list):
         print(element)
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except:
+        print("Wystąpił nieokreślony błąd")
